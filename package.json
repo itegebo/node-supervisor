@@ -1,5 +1,5 @@
 { "name" : "supervisor"
-, "version" : "0.5.6"
+, "version" : "0.5.7"
 , "description" : "A supervisor program for running nodejs programs"
 , "author" : "Isaac Z. Schlueter <i@izs.me>"
 , "contributors" :
